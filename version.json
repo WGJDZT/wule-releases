@@ -1,6 +1,6 @@
 {
-  "version": "v2026.10.29.4",
-  "file": "wule-investment-manager-v2026.10.29.4.zip",
-  "notes": "平账项目新增「不计入当日盈亏」勾选，避免历史平账金额冲垮今日盈亏。",
+  "version": "v2026.10.30.1",
+  "file": "wule-investment-manager-v2026.10.30.1.zip",
+  "notes": "今日盈亏口径改造：所有平账项目一律排除当日盈亏；日度盈亏支持大类筛选；盈亏配色可配置（默认盈红亏绿）。",
   "published_at": "2026-10-30"
 }
