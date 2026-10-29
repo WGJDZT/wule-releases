@@ -1,6 +1,6 @@
 {
-  "version": "v2026.10.29",
-  "file": "wule-investment-manager-v2026.10.29.zip",
-  "notes": "新增数据包ZIP导出导入、GitHub私有库云同步与一键升级；项目盯盘实时涨跌幅。",
+  "version": "v2026.10.29.2",
+  "file": "wule-investment-manager-v2026.10.29.2.zip",
+  "notes": "新增股票盯盘：A股自选实时行情、今日分时折线与日K蜡烛图、涨跌幅阈值提醒（详情页为独立页面）；东方财富断连时自动回退腾讯行情源。",
   "published_at": "2026-10-29"
 }
