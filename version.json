@@ -1,6 +1,6 @@
 {
-  "version": "v2026.10.29.3",
-  "file": "wule-investment-manager-v2026.10.29.3.zip",
-  "notes": "修复云同步在 org 仓库自动创建失败的问题（区分 POST /user/repos 与 POST /orgs/{org}/repos）。",
-  "published_at": "2026-10-29"
+  "version": "v2026.10.29.4",
+  "file": "wule-investment-manager-v2026.10.29.4.zip",
+  "notes": "平账项目新增「不计入当日盈亏」勾选，避免历史平账金额冲垮今日盈亏。",
+  "published_at": "2026-10-30"
 }
