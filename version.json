@@ -1,6 +1,6 @@
 {
-  "version": "v2026.10.29.2",
-  "file": "wule-investment-manager-v2026.10.29.2.zip",
-  "notes": "新增股票盯盘：A股自选实时行情、今日分时折线与日K蜡烛图、涨跌幅阈值提醒（详情页为独立页面）；东方财富断连时自动回退腾讯行情源。",
+  "version": "v2026.10.29.3",
+  "file": "wule-investment-manager-v2026.10.29.3.zip",
+  "notes": "修复云同步在 org 仓库自动创建失败的问题（区分 POST /user/repos 与 POST /orgs/{org}/repos）。",
   "published_at": "2026-10-29"
 }
