@@ -1,6 +1,6 @@
 {
-  "version": "v2026.11.2.1",
-  "file": "wule-investment-manager-v2026.11.2.1.zip",
-  "notes": "四指标来源桑基流向图：总资产/本金/总盈亏/当日盈亏根→大类→项目三层流向可视化（新 SourceFlow 组件与 /api/ledger/source_flow 接口）；当日盈亏改贡献制并引入价格日归属（price_day），根治非交易日伪流水，删除项目结构性排除。",
+  "version": "v2026.11.2.2",
+  "file": "wule-investment-manager-v2026.11.2.2.zip",
+  "notes": "历史项目快照升级自动回填：服务启动后台自动补齐 project_daily_snapshots 缺失日期（流水重放+日K/历史净值取价，price_day 归属修复），老用户升级后历史流向图即开即用；幂等设计不阻塞启动。",
   "published_at": "2026-11-02"
 }
